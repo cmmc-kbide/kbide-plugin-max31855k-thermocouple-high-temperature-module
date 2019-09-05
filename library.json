@@ -1,8 +1,8 @@
 {
-  "name" : "kbide-plugin-max31855k-thermocouple-high-temperature-module",
-  "title": "max31855k-thermocouple-high-temperature-module",
-  "keywords": "max31855k-thermocouple-high-temperature-module, esp32, esp8266, arduino",
-  "description": "max31855k-thermocouple-high-temperature-module plugin for KB-IDE",
+  "name" : "kbide-plugin-max31855k",
+  "title": "max31855k-thermocouple",
+  "keywords": "max31855k-thermocouple, esp32, esp8266, arduino",
+  "description": "max31855k-thermocouple plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-max31855k-thermocouple-high-temperature-module/",
   "author": "cmmakerclub",
